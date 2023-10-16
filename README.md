@@ -1,6 +1,8 @@
 # bun
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/F0K-j3?referralCode=coffeecup)
+<p align="center">
+  <a href="https://bun.sh"><img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="Logo" height=170></a>
+</p>
 
 To install dependencies:
 
